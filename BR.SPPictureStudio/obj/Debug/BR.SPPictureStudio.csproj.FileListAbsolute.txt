@@ -1,0 +1,3 @@
+c:\users\batiste\documents\visual studio 2013\Projects\BR.SPPictureStudio\BR.SPPictureStudio\bin\Debug\BR.SPPictureStudio.pdb
+c:\users\batiste\documents\visual studio 2013\Projects\BR.SPPictureStudio\BR.SPPictureStudio\obj\Debug\BR.SPPictureStudio.dll
+c:\users\batiste\documents\visual studio 2013\Projects\BR.SPPictureStudio\BR.SPPictureStudio\obj\Debug\BR.SPPictureStudio.pdb

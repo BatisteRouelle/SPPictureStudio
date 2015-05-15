@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="04d62afc-da10-48a1-a506-cb697e71e509" 
+        solutionId="04d62afc-da10-48a1-a506-cb697e71e509" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="BR.SPPictureStudio"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="115af7d4-8e81-48ce-9c64-5fb4fe02233e" />
+  </features>
+</package>

@@ -1,0 +1,1 @@
+bin\Debug\BR.SPPictureStudio.wsp
